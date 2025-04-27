@@ -79,10 +79,10 @@
           <mxGeometry x="816.5" y="1169" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-11" value="Super-resolution improves 3DGS quality" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="794" y="1059" width="225" height="49" as="geometry" />
+          <mxGeometry x="794" y="951.5" width="225" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-12" value="Output optimized 3DGS and Mesh" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="784.5" y="802" width="244" height="49" as="geometry" />
+          <mxGeometry x="784.5" y="787" width="244" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-13" value="Step 3: 3D geometry scale recovery" style="rhombus;strokeWidth=2;whiteSpace=wrap;direction=east;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1116.5" y="693" width="211" height="211" as="geometry" />
