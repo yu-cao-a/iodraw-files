@@ -198,6 +198,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WP0f5RvWF2hUZM6erai2-39" value="Mesh转初步3DGS" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="826.5" y="1283" width="180" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
