@@ -39,7 +39,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WP0f5RvWF2hUZM6erai2-0" value="Input image" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WP0f5RvWF2hUZM6erai2-0" value="Input image/text" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="485" y="761" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-1" value="Step 1: Panorama generation&#xa;" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -91,7 +91,7 @@
           <mxGeometry x="1080" y="783" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-15" value="保存对齐后的Camera Trajectory" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1094" y="996" width="211" height="66" as="geometry" />
+          <mxGeometry x="1096" y="993" width="211" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-16" value="保存对齐后的3DGS和Mesh" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1078" y="1193" width="244" height="49" as="geometry" />
