@@ -94,7 +94,7 @@
           <mxGeometry x="1094" y="996" width="211" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-16" value="保存对齐后的3DGS和Mesh" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="1210" width="244" height="49" as="geometry" />
+          <mxGeometry x="1078" y="1193" width="244" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-17" value="输出处理时间统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1108" y="1381" width="188" height="49" as="geometry" />
