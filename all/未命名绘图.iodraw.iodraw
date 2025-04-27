@@ -88,7 +88,7 @@
           <mxGeometry x="1116.5" y="693" width="211" height="211" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-14" value="Aligning the scale and rotation of Mesh and 3DGS" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1100" y="948" width="244" height="66" as="geometry" />
+          <mxGeometry x="1100" y="956" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-15" value="Save the aligned Camera Trajectory" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1119" y="1150" width="211" height="66" as="geometry" />
@@ -190,7 +190,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-39" value="Optimizing mesh" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="816.5" y="1218" width="180" height="49" as="geometry" />
+          <mxGeometry x="816.5" y="1231" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.25;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WP0f5RvWF2hUZM6erai2-8" target="WP0f5RvWF2hUZM6erai2-9">
           <mxGeometry relative="1" as="geometry">
