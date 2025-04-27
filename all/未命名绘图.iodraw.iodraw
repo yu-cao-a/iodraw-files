@@ -40,9 +40,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-0" value="输入图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="761.5" width="124" height="49" as="geometry" />
+          <mxGeometry x="485" y="761" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WP0f5RvWF2hUZM6erai2-1" value="Step 1: demo_i2p.py&#xa;生成全景图" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WP0f5RvWF2hUZM6erai2-1" value="Step 1: &#xa;生成全景图" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="178" y="679" width="214" height="214" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-2" value="分支1：纯文本生成全景图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
