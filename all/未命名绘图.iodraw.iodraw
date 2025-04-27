@@ -64,7 +64,7 @@
           <mxGeometry x="168" y="1372" width="235" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-8" value="Step 2: pano2room.py&#xa;拟合房间几何" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="183" y="1500" width="224" height="224" as="geometry" />
+          <mxGeometry x="178" y="1500" width="224" height="224" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-9" value="生成初步Mesh" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="206" y="1762" width="159" height="49" as="geometry" />
