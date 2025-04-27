@@ -76,10 +76,10 @@
           <mxGeometry x="827" y="1378" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-10" value="Mesh转初步3DGS" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="816.5" y="1273" width="180" height="49" as="geometry" />
+          <mxGeometry x="816.5" y="1169" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-11" value="超分辨率提升3DGS质量" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="794" y="1150" width="225" height="49" as="geometry" />
+          <mxGeometry x="794" y="1059" width="225" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-12" value="输出优化后的3DGS和Mesh" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="784.5" y="960" width="244" height="49" as="geometry" />
@@ -199,7 +199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-39" value="Mesh转初步3DGS" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="986" y="1304" width="180" height="49" as="geometry" />
+          <mxGeometry x="839" y="1273" width="180" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
