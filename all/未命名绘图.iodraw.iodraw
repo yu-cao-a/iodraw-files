@@ -88,16 +88,16 @@
           <mxGeometry x="801" y="750" width="211" height="211" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-14" value="对齐Mesh和3DGS的尺度与旋转" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="827" width="244" height="66" as="geometry" />
+          <mxGeometry x="1078" y="838" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-15" value="保存对齐后的Camera Trajectory" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1096.5" y="1009" width="211" height="66" as="geometry" />
+          <mxGeometry x="1096" y="1025" width="211" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-16" value="保存对齐后的3DGS和Mesh" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="1160" width="244" height="49" as="geometry" />
+          <mxGeometry x="1080" y="1210" width="244" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-17" value="输出处理时间统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1058" y="1462" width="188" height="49" as="geometry" />
+          <mxGeometry x="1108" y="1381" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WP0f5RvWF2hUZM6erai2-0" target="WP0f5RvWF2hUZM6erai2-1">
           <mxGeometry relative="1" as="geometry">
