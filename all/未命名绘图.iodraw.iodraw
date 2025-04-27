@@ -84,7 +84,7 @@
         <mxCell id="WP0f5RvWF2hUZM6erai2-12" value="输出优化后的3DGS和Mesh" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="786" y="1040" width="244" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WP0f5RvWF2hUZM6erai2-13" value="Step 3: gs_model.py&#xa;尺度对齐与旋转" style="rhombus;strokeWidth=2;whiteSpace=wrap;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WP0f5RvWF2hUZM6erai2-13" value="Step 3: gs_model.py&#xa;尺度对齐与旋转" style="rhombus;strokeWidth=2;whiteSpace=wrap;direction=east;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="801" y="750" width="211" height="211" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-14" value="对齐Mesh和3DGS的尺度与旋转" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
