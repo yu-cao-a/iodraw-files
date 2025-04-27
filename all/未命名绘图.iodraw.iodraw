@@ -73,10 +73,10 @@
           <mxGeometry x="510" y="1310" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-9" value="Generate a preliminary mesh" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="827" y="1379" width="159" height="49" as="geometry" />
+          <mxGeometry x="827" y="1376.5" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-10" value="Mesh to Preliminary 3DGS" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="816.5" y="1169" width="180" height="49" as="geometry" />
+          <mxGeometry x="816.5" y="1086" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-11" value="Super-resolution improves 3DGS quality" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="794" y="951.5" width="225" height="49" as="geometry" />
@@ -190,7 +190,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-39" value="Optimizing mesh" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="816.5" y="1273" width="180" height="49" as="geometry" />
+          <mxGeometry x="816.5" y="1218" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.25;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WP0f5RvWF2hUZM6erai2-8" target="WP0f5RvWF2hUZM6erai2-9">
           <mxGeometry relative="1" as="geometry">
