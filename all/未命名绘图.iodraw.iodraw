@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-8" value="Step 2: pano2room.py&#xa;拟合房间几何" style="rhombus;strokeWidth=2;whiteSpace=wrap;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="1310" width="224" height="224" as="geometry" />
+          <mxGeometry x="510" y="1304" width="224" height="224" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-9" value="生成初步Mesh" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="827" y="1381" width="159" height="49" as="geometry" />
@@ -197,9 +197,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WP0f5RvWF2hUZM6erai2-38" value="Step 2: pano2room.py&#xa;拟合房间几何" style="rhombus;strokeWidth=2;whiteSpace=wrap;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="1300" width="224" height="224" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
