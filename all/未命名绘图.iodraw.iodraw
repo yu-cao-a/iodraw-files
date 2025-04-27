@@ -63,7 +63,7 @@
         <mxCell id="WP0f5RvWF2hUZM6erai2-7" value="筛选后的全景图输出&#xa;文件名: pano_result.png" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="168" y="1372" width="235" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="WP0f5RvWF2hUZM6erai2-8" value="Step 2: pano2room.py&#xa;拟合房间几何" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WP0f5RvWF2hUZM6erai2-8" value="Step 2: pano2room.py&#xa;拟合房间几何" style="rhombus;strokeWidth=2;whiteSpace=wrap;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="1420" width="224" height="224" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-9" value="生成初步Mesh" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
