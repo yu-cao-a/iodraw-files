@@ -81,7 +81,7 @@
         <mxCell id="WP0f5RvWF2hUZM6erai2-11" value="Super-resolution improves 3DGS quality" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="794" y="1059" width="225" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WP0f5RvWF2hUZM6erai2-12" value="输出优化后的3DGS和Mesh" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WP0f5RvWF2hUZM6erai2-12" value="Output optimized 3DGS and Mesh" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="784.5" y="960" width="244" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-13" value="Step 3: gs_model.py&#xa;尺度对齐与旋转" style="rhombus;strokeWidth=2;whiteSpace=wrap;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
