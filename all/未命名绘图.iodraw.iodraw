@@ -82,10 +82,10 @@
           <mxGeometry x="794" y="1059" width="225" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-12" value="Output optimized 3DGS and Mesh" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="784.5" y="960" width="244" height="49" as="geometry" />
+          <mxGeometry x="784.5" y="802" width="244" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-13" value="Step 3: 3D geometry scale recovery" style="rhombus;strokeWidth=2;whiteSpace=wrap;direction=east;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1119" y="710" width="211" height="211" as="geometry" />
+          <mxGeometry x="1116.5" y="693" width="211" height="211" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-14" value="Aligning the scale and rotation of Mesh and 3DGS" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1100" y="948" width="244" height="66" as="geometry" />
