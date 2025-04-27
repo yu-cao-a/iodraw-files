@@ -69,7 +69,7 @@
             <mxPoint x="1068.9999999999998" y="1650" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WP0f5RvWF2hUZM6erai2-8" value="Step 2: pano2room.py&#xa;拟合房间几何" style="rhombus;strokeWidth=2;whiteSpace=wrap;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WP0f5RvWF2hUZM6erai2-8" value="Step 2: Panorama 2 3d geometry拟合房间几何" style="rhombus;strokeWidth=2;whiteSpace=wrap;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="1304" width="224" height="224" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-9" value="生成初步Mesh" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
