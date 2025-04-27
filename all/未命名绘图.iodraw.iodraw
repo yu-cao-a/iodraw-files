@@ -88,7 +88,7 @@
           <mxGeometry x="801" y="693" width="211" height="211" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-14" value="Aligning the scale and rotation of Mesh and 3DGS" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="783" width="244" height="66" as="geometry" />
+          <mxGeometry x="1092" y="900" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-15" value="Save the aligned Camera Trajectory" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1096" y="993" width="211" height="66" as="geometry" />
