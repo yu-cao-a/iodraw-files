@@ -87,7 +87,7 @@
         <mxCell id="WP0f5RvWF2hUZM6erai2-13" value="Step 3: 3D geometry scale recovery" style="rhombus;strokeWidth=2;whiteSpace=wrap;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="801" y="693" width="211" height="211" as="geometry" />
         </mxCell>
-        <mxCell id="WP0f5RvWF2hUZM6erai2-14" value="对齐Mesh和3DGS的尺度与旋转" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WP0f5RvWF2hUZM6erai2-14" value="Aligning the scale and rotation of Mesh and 3DGS" style="whiteSpace=wrap;strokeWidth=2;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1080" y="783" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="WP0f5RvWF2hUZM6erai2-15" value="保存对齐后的Camera Trajectory" style="whiteSpace=wrap;strokeWidth=2;direction=east;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
